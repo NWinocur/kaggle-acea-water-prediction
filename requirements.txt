@@ -17,4 +17,9 @@ plotly
 jupyterlab
 jupyter-server
 jupyter_client
+ipykernel
 statsmodels>=0.14.4
+geopy
+folium
+tqdm
+lightgbm
